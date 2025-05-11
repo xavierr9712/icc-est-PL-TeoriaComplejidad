@@ -38,37 +38,40 @@ Para ejecutar el proyecto:
 
 ## 🧑‍💻 Ejemplo
 
-- Tamano: 5000, Algoritmo: bubble, Tiempo: 11.3819 segundos
-- Tamano: 5000, Algoritmo: bubbleMejorado, Tiempo: 10.0865 segundos
-- Tamano: 5000, Algoritmo: seleccion, Tiempo: 6.1652 segundos
-- Tamano: 5000, Algoritmo: insercion, Tiempo: 5.5641 segundos
-- Tamano: 5000, Algoritmo: shell, Tiempo: 0.1224 segundos
-- Tamano: 10000, Algoritmo: bubble, Tiempo: 44.2759 segundos
-- Tamano: 10000, Algoritmo: bubbleMejorado, Tiempo: 43.3207 segundos
-- Tamano: 10000, Algoritmo: seleccion, Tiempo: 11.2152 segundos
-- Tamano: 10000, Algoritmo: insercion, Tiempo: 13.5427 segundos
-- Tamano: 10000, Algoritmo: shell, Tiempo: 0.1244 segundos
-- Tamano: 30000, Algoritmo: bubble, Tiempo: 231.3088 segundos
-- Tamano: 30000, Algoritmo: bubbleMejorado, Tiempo: 197.4112 segundos
-- Tamano: 30000, Algoritmo: seleccion, Tiempo: 101.7851 segundos
-- Tamano: 30000, Algoritmo: insercion, Tiempo: 90.3429 segundos
-- Tamano: 30000, Algoritmo: shell, Tiempo: 0.4709 segundos
-- Tamano: 50000, Algoritmo: bubble, Tiempo: 514.0669 segundos
-- Tamano: 50000, Algoritmo: bubbleMejorado, Tiempo: 591.1943 segundos
-- Tamano: 50000, Algoritmo: seleccion, Tiempo: 302.5191 segundos
-- Tamano: 50000, Algoritmo: insercion, Tiempo: 313.8636 segundos
-- Tamano: 50000, Algoritmo: shell, Tiempo: 1.1343 segundos
-- Tamano: 100000, Algoritmo: bubble, Tiempo: 2324.9781 segundos
-- Tamano: 100000, Algoritmo: bubbleMejorado, Tiempo: 2399.8249 segundos
-- Tamano: 100000, Algoritmo: seleccion, Tiempo: 1164.8701 segundos
-- Tamano: 100000, Algoritmo: insercion, Tiempo: 1255.4074 segundos
-- Tamano: 100000, Algoritmo: shell, Tiempo: 2.5836 segundos
+- Tamano: 5000, Algoritmo: bubble, Tiempo: 5.5144 segundos
+- Tamano: 5000, Algoritmo: bubbleMejorado, Tiempo: 5.3468 segundos
+- Tamano: 5000, Algoritmo: seleccion, Tiempo: 2.7478 segundos
+- Tamano: 5000, Algoritmo: insercion, Tiempo: 2.5001 segundos
+- Tamano: 5000, Algoritmo: shell, Tiempo: 0.0636 segundos
+- Tamano: 10000, Algoritmo: bubble, Tiempo: 19.2417 segundos
+- Tamano: 10000, Algoritmo: bubbleMejorado, Tiempo: 21.8693 segundos
+- Tamano: 10000, Algoritmo: seleccion, Tiempo: 14.3431 segundos
+- Tamano: 10000, Algoritmo: insercion, Tiempo: 10.5348 segundos
+- Tamano: 10000, Algoritmo: shell, Tiempo: 0.1426 segundos
+- Tamano: 30000, Algoritmo: bubble, Tiempo: 188.7330 segundos
+- Tamano: 30000, Algoritmo: bubbleMejorado, Tiempo: 212.0724 segundos
+- Tamano: 30000, Algoritmo: seleccion, Tiempo: 103.7407 segundos
+- Tamano: 30000, Algoritmo: insercion, Tiempo: 97.8260 segundos
+- Tamano: 30000, Algoritmo: shell, Tiempo: 0.5066 segundos
+- Tamano: 50000, Algoritmo: bubble, Tiempo: 499.3565 segundos
+- Tamano: 50000, Algoritmo: bubbleMejorado, Tiempo: 515.2262 segundos
+- Tamano: 50000, Algoritmo: seleccion, Tiempo: 246.3416 segundos
+- Tamano: 50000, Algoritmo: insercion, Tiempo: 250.7001 segundos
+- Tamano: 50000, Algoritmo: shell, Tiempo: 0.9780 segundos
+- Tamano: 100000, Algoritmo: bubble, Tiempo: 1958.9461 segundos
+- Tamano: 100000, Algoritmo: bubbleMejorado, Tiempo: 2033.6539 segundos
+- Tamano: 100000, Algoritmo: seleccion, Tiempo: 1008.3195 segundos
+- Tamano: 100000, Algoritmo: insercion, Tiempo: 1032.7190 segundos
+- Tamano: 100000, Algoritmo: shell, Tiempo: 2.1921 segundos
 
 ## EJEMPLO DE ADICIÓN DE DATOS EN ESTE INFORME
 
 ![alt text](<COMPARACION DE ALGORITMOS DE ORDENAMIENTO.png>)
+
 ## TABLA DE RESULTADOS TODOS LOS METODOS 
-![alt text](image.png)
+
+![alt text](<COMPARACION DE ALGORITMOS DE ORDENAMIENTO-.png>)
+
 ##  CONCLUCIONES CON TERMINOLOGIA DE NOTACION 
 
 - A través del proceso de implementación, se adquirió una comprensión más profunda de los pasos de cada algoritmo de ordenación. Este conocimiento va más allá de simplemente conocer los algoritmos, ya que permite traducirlos a código funcional.
