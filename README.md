@@ -35,31 +35,31 @@ Para ejecutar el proyecto:
 
 ## 🧑‍💻 Ejemplo
 
-Tamano: 5000, Algoritmo: bubble, Tiempo: 11.3819 segundos
-Tamano: 5000, Algoritmo: bubbleMejorado, Tiempo: 10.0865 segundos
-Tamano: 5000, Algoritmo: seleccion, Tiempo: 6.1652 segundos
-Tamano: 5000, Algoritmo: insercion, Tiempo: 5.5641 segundos
-Tamano: 5000, Algoritmo: shell, Tiempo: 0.1224 segundos
-Tamano: 10000, Algoritmo: bubble, Tiempo: 44.2759 segundos
-Tamano: 10000, Algoritmo: bubbleMejorado, Tiempo: 43.3207 segundos
-Tamano: 10000, Algoritmo: seleccion, Tiempo: 11.2152 segundos
-Tamano: 10000, Algoritmo: insercion, Tiempo: 13.5427 segundos
-Tamano: 10000, Algoritmo: shell, Tiempo: 0.1244 segundos
-Tamano: 30000, Algoritmo: bubble, Tiempo: 231.3088 segundos
-Tamano: 30000, Algoritmo: bubbleMejorado, Tiempo: 197.4112 segundos
-Tamano: 30000, Algoritmo: seleccion, Tiempo: 101.7851 segundos
-Tamano: 30000, Algoritmo: insercion, Tiempo: 90.3429 segundos
-Tamano: 30000, Algoritmo: shell, Tiempo: 0.4709 segundos
-Tamano: 50000, Algoritmo: bubble, Tiempo: 514.0669 segundos
-Tamano: 50000, Algoritmo: bubbleMejorado, Tiempo: 591.1943 segundos
-Tamano: 50000, Algoritmo: seleccion, Tiempo: 302.5191 segundos
-Tamano: 50000, Algoritmo: insercion, Tiempo: 313.8636 segundos
-Tamano: 50000, Algoritmo: shell, Tiempo: 1.1343 segundos
-Tamano: 100000, Algoritmo: bubble, Tiempo: 2324.9781 segundos
-Tamano: 100000, Algoritmo: bubbleMejorado, Tiempo: 2399.8249 segundos
-Tamano: 100000, Algoritmo: seleccion, Tiempo: 1164.8701 segundos
-Tamano: 100000, Algoritmo: insercion, Tiempo: 1255.4074 segundos
-Tamano: 100000, Algoritmo: shell, Tiempo: 2.5836 segundos
+- Tamano: 5000, Algoritmo: bubble, Tiempo: 11.3819 segundos
+- Tamano: 5000, Algoritmo: bubbleMejorado, Tiempo: 10.0865 segundos
+- Tamano: 5000, Algoritmo: seleccion, Tiempo: 6.1652 segundos
+- Tamano: 5000, Algoritmo: insercion, Tiempo: 5.5641 segundos
+- Tamano: 5000, Algoritmo: shell, Tiempo: 0.1224 segundos
+- Tamano: 10000, Algoritmo: bubble, Tiempo: 44.2759 segundos
+- Tamano: 10000, Algoritmo: bubbleMejorado, Tiempo: 43.3207 segundos
+- Tamano: 10000, Algoritmo: seleccion, Tiempo: 11.2152 segundos
+- Tamano: 10000, Algoritmo: insercion, Tiempo: 13.5427 segundos
+- Tamano: 10000, Algoritmo: shell, Tiempo: 0.1244 segundos
+- Tamano: 30000, Algoritmo: bubble, Tiempo: 231.3088 segundos
+- Tamano: 30000, Algoritmo: bubbleMejorado, Tiempo: 197.4112 segundos
+- Tamano: 30000, Algoritmo: seleccion, Tiempo: 101.7851 segundos
+- Tamano: 30000, Algoritmo: insercion, Tiempo: 90.3429 segundos
+- Tamano: 30000, Algoritmo: shell, Tiempo: 0.4709 segundos
+- Tamano: 50000, Algoritmo: bubble, Tiempo: 514.0669 segundos
+- Tamano: 50000, Algoritmo: bubbleMejorado, Tiempo: 591.1943 segundos
+- Tamano: 50000, Algoritmo: seleccion, Tiempo: 302.5191 segundos
+- Tamano: 50000, Algoritmo: insercion, Tiempo: 313.8636 segundos
+- Tamano: 50000, Algoritmo: shell, Tiempo: 1.1343 segundos
+- Tamano: 100000, Algoritmo: bubble, Tiempo: 2324.9781 segundos
+- Tamano: 100000, Algoritmo: bubbleMejorado, Tiempo: 2399.8249 segundos
+- Tamano: 100000, Algoritmo: seleccion, Tiempo: 1164.8701 segundos
+- Tamano: 100000, Algoritmo: insercion, Tiempo: 1255.4074 segundos
+- Tamano: 100000, Algoritmo: shell, Tiempo: 2.5836 segundos
 
 ## EJEMPLO DE ADICIÓN DE DATOS EN ESTE INFORME
 
