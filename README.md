@@ -5,7 +5,7 @@
 - **Título:** Práctica Teoria De La Complejidad
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
-- **Estudiantes:** Xavier Ortega, dave siguencia
+- **Estudiantes:** Xavier Ortega, Dave Sigüenza
 - **Fecha:** 11/5/2025
 - **Profesor:** Ing. Pablo Torres
 
@@ -63,8 +63,7 @@ Para ejecutar el proyecto:
 
 ## EJEMPLO DE ADICIÓN DE DATOS EN ESTE INFORME
 
-![Figuras](figuras.png)
-
+![alt text](<COMPARACION DE ALGORITMOS DE ORDENAMIENTO.png>)
 ## TABLA DE RESULTADOS TODOS LOS METODOS 
 ![alt text](image.png)
 ##  CONCLUCIONES CON TERMINOLOGIA DE NOTACION 
@@ -86,3 +85,6 @@ El análisis cuantitativo de los tiempos de ejecución permitió identificar cla
 ##  CONCLUCION XAVIER ORTEGA
 
  - El análisis de los tiempos de ejecución dio como resultado a Shell Sort como el algoritmo más eficiente entre los evaluados, especialmente para conjuntos de datos más grandes. Esto concuerda con la idea de que los algoritmos con menor complejidad temporal generalmente requieren menos operaciones (iteraciones) para ordenar un conjunto de datos determinado.
+
+  ## CONCLUSIÓN DAVE SIGÜENZA
+ - Luego de implementar y comparar distintos algoritmos de ordenamiento, se pudo comprobar que Shell Sort es el más eficiente para manejar grandes volúmenes de datos, mientras que métodos como Burbuja y Selección resultan poco prácticos por su alto costo en tiempo de ejecución.
