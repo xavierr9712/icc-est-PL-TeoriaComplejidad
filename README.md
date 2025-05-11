@@ -14,11 +14,14 @@
 ## 🛠️ Descripción
 
 Este proyecto implementadiferentes algoritmos de ordenamiento en python, incluyendo:
+
 - Método Burbuja
 - Método Burbuja Mejorado
 - Método Selección
 - Método Inserción
 - Método Shell
+
+ Con estos estos metodos aplicamos el rendimiento y ejecucion con cada uno de los metodos.
 
 ## 🚀 Ejecución
 
