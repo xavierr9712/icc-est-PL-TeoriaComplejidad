@@ -23,13 +23,13 @@ class App:
         self.benchmarking = Benchmarking()
 
     def build_arreglo(self, tamano: int) -> list[int]:
-        """Generates a list of random integers."""
+        """Genera una lista de números enteros aleatorios."""
 
         return [random.randint(0, tamano) for _ in range(tamano)]  # Generate random numbers
 
     def run(self):
         """
-        Executes the sorting algorithms for each array size and stores the results.
+        Ejecuta los algoritmos de clasificación para cada tamaño de matriz y almacena los resultados.
         """
 
         for tamano in self.tamanos:
@@ -42,7 +42,7 @@ class App:
 
     def graficar_resultados(self):
          """
-         Plots the results using matplotlib.
+         Grafica los resultados usando matplotlib.
          """
          tiempos = {}
          for tamano in self.tamanos:

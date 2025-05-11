@@ -5,7 +5,7 @@ import copy  # To ensure arrays are copied, not referenced
 
 class SortMethods:
     """
-    This class contains the implementation of various sorting algorithms.
+    Esta clase contiene la implementación de varios algoritmos de clasificación.
     """
 
     def sort_bubble(self, array: list[int]) -> list[int]:
