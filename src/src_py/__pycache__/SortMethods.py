@@ -1,11 +1,11 @@
 import random
 import time
 import matplotlib.pyplot as plt
-import copy  # To ensure arrays are copied, not referenced
+import copy  
 
 class SortMethods:
     """
-    Esta clase contiene la implementación de varios algoritmos de clasificación.
+    Esta clase contiene la implementación de varios algoritmos de Ordenamiento.
     """
 
     def sort_bubble(self, array: list[int]) -> list[int]:
